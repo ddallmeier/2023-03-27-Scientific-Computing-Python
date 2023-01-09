@@ -192,7 +192,6 @@ special instructions.
   accessible to everybody.  For workshops at a physical location, the workshop organizers have checked that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
